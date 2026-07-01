@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0324/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0324/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼
+  identifiers:
+    krp: KR6j0324
+    cbeta: T20n1113B
+    cbeta_old_id: T20n1113B
+    authorityid: CA0001289
+    json_key: T1113B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1113B.xml
+    old_id: T20n1113B
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0324_000-T.yaml, hash: 'sha256:2445bd464b3704f8235f2663748ce838fdb6e8d3ec653143fe3fc66cbdc125c9'}
+  - {seq: 1, filename: KR6j0324_001-T.yaml, hash: 'sha256:5fe5ea7bcbff1e356d43fd1cf7089cdc16372c5abf5e5998a5a80d7938d72348'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0324_000-T.markers.yaml, hash: 'sha256:20aa383400be605e313d12c75740175a0517bc4f6686a41d2444534686311c7b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0324_001-T.markers.yaml, hash: 'sha256:af645e61a24af157bad31ed979785197fda61b7aa024511eec5eb787000aaa98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0324_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1479
+  label: '大慈大悲救苦觀世音自在王
+
+    菩薩廣大圓滿無礙自在青頸
+
+    大悲心陀羅尼'
+  type: juan
+  level: 1
+hash: sha256:abb825b95bf8eda2901bec54acec2d38521304b293a79a544958cf976f2ad933

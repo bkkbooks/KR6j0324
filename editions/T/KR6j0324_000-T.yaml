@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0324/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1113B.xml
+    old_id: T20n1113B
+hash: sha256:2445bd464b3704f8235f2663748ce838fdb6e8d3ec653143fe3fc66cbdc125c9
