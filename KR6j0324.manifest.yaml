@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0324_000.yaml, hash: 'sha256:2445bd464b3704f8235f2663748ce838fdb6e8d3ec653143fe3fc66cbdc125c9'}
-  - {seq: 1, filename: KR6j0324_001.yaml, hash: 'sha256:34416a364775e58ece179b06852d20517358c14403e362fac9abefc9b4570e9d'}
+  - {seq: 1, filename: KR6j0324_001.yaml, hash: 'sha256:5fe5ea7bcbff1e356d43fd1cf7089cdc16372c5abf5e5998a5a80d7938d72348'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0324_001.markers.yaml, hash: 'sha256:757041fe5d147a32e597dbe5b62592cfcbf99038dbcc0965d52bd0a13da60a95'}
+  - {seq: 0, role: markers, filename: assets/KR6j0324_000.markers.yaml, hash: 'sha256:bd1b0160d2ed8d387ca9f133fd4840daeb02878a554a1789cbbde8d4b4bc18bf'}
+  - {seq: 1, role: markers, filename: assets/KR6j0324_001.markers.yaml, hash: 'sha256:fe14a90381e208c58f0670b0eecf9e2199e0f660617fb4f6a35208f9db07f6fd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,7 +44,4 @@ table_of_contents:
     大悲心陀羅尼'
   type: juan
   level: 1
-hash: sha256:424cd04193f7b4e03abf9c8cb57cc60b18805cdd37637b05b80de0d41158710a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b545fb15b72cb2f5a6d7fc9284654289be2516792973c8fe929d7a025f57266f
