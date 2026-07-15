@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0324/v1
 canonical_location: https://kanripo.org/bkk/KR6j0324/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0324_000.yaml, hash: 'sha256:2445bd464b3704f8235f2663748ce838fdb6e8d3ec653143fe3fc66cbdc125c9'}
-  - {seq: 1, filename: KR6j0324_001.yaml, hash: 'sha256:5fe5ea7bcbff1e356d43fd1cf7089cdc16372c5abf5e5998a5a80d7938d72348'}
+  - {seq: 1, filename: KR6j0324_001.yaml, hash: 'sha256:e90de8611ebd01083603fc49bbbf1dacf8d47fab78e898506751fcec6c0c47db'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0324_000.markers.yaml, hash: 'sha256:bd1b0160d2ed8d387ca9f133fd4840daeb02878a554a1789cbbde8d4b4bc18bf'}
-  - {seq: 1, role: markers, filename: assets/KR6j0324_001.markers.yaml, hash: 'sha256:fe14a90381e208c58f0670b0eecf9e2199e0f660617fb4f6a35208f9db07f6fd'}
+  - {seq: 1, role: markers, filename: assets/KR6j0324_001.markers.yaml, hash: 'sha256:705fb7a586f0c3cb66b44773dc86b4e2557450b71a61adbd235798d062813678'}
 table_of_contents:
 - ref:
     seq: 1
@@ -44,4 +44,7 @@ table_of_contents:
     大悲心陀羅尼'
   type: juan
   level: 1
-hash: sha256:b545fb15b72cb2f5a6d7fc9284654289be2516792973c8fe929d7a025f57266f
+hash: sha256:dbe008dd3f0448dab8c9d8a6e9cf1e1f321d48f6371a81187bcfb7475c8817c1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
